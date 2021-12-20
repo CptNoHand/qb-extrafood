@@ -19,5 +19,9 @@
 ["pepsi"] = math.random(35, 54), -- 2
 ["mtndew"] = math.random(35, 54), -- 3
 ["lemonade"] = math.random(35, 54), -- 4
-["icedtea"] = math.random(35, 54), -- 5
-["milk"] = math.random(35, 54), -- 6
+["pinklemonade"] = math.random(35, 54), -- 5
+["icedtea"] = math.random(35, 54), -- 6
+["milk"] = math.random(35, 54), -- 7
+["fanta"] = math.random(35, 54), -- 8
+["drpepper"] = math.random(35, 54), -- 9
+["fruitpunch"] = math.random(35, 54), -- 10

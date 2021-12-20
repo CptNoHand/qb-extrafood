@@ -171,6 +171,18 @@
         ["combinable"] = nil,
         ["description"] = "Straight from the Juice"
     },
+    ["pinklemonade"] = {
+        ["name"] = "pinklemonade",
+        ["label"] = "Pink Lemonade",
+        ["weight"] = 100,
+        ["type"] = "item",
+        ["image"] = ".png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "Straight from the Pink Juice"
+    },
     ["mtndew"] = {
         ["name"] = "mtndew",
         ["label"] = "Mountain Dew",
@@ -194,4 +206,40 @@
         ["shouldClose"] = true,
         ["combinable"] = nil,
         ["description"] = "Drink of Cow Produce"
+    },
+    ["fanta"] = {
+        ["name"] = "fanta",
+        ["label"] = "Fanta",
+        ["weight"] = 100,
+        ["type"] = "item",
+        ["image"] = ".png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "Drink of Orange SuperPowers"
+    },
+    ["drpepper"] = {
+        ["name"] = "drpepper",
+        ["label"] = "Dr. Pepper",
+        ["weight"] = 100,
+        ["type"] = "item",
+        ["image"] = ".png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "Drink of the Doctors Finest"
+    },
+    ["fruitpunch"] = {
+        ["name"] = "fruitpunch",
+        ["label"] = "Fruit Punch",
+        ["weight"] = 100,
+        ["type"] = "item",
+        ["image"] = ".png",
+        ["unique"] = false,
+        ["useable"] = true,
+        ["shouldClose"] = true,
+        ["combinable"] = nil,
+        ["description"] = "Drink that Smiles Back"
     },
